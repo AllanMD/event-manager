@@ -1,0 +1,1 @@
+rootProject.name = "com.allan.tesis.event-manager"
